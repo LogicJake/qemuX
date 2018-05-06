@@ -1,8 +1,3 @@
-<head>
-<title>操作系统实验手册</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-</head>
-
 # 操作系统实验手册
 ## 课程介绍
 1. 课程安排<br>
@@ -14,14 +9,14 @@
 2. [Linux编程环境介绍](env.html)
 
 ## 实验内容
-1. [多进程](proc.html)
-2. [Shell 第1版](sh1.html)
-3. [Shell 第2版](sh2.html)
-4. [Shell 第3版](sh3.html)
-5. [多线程1](t1.html)
-6. [多线程2](t2.html)
-7. [并行搜索](pool.html)
-8. [内存分配算法](malloc.html)
+1. [多进程](manual/proc.md)
+2. [Shell 第1版](manual/sh1.md)
+3. [Shell 第2版](manual/sh2.md)
+4. [Shell 第3版](manual/sh3.md)
+5. [多线程1](manual/t1.md)
+6. [多线程2](manual/t2.md)
+7. [并行搜索](manual/pool.md)
+8. [内存分配算法](manual/malloc.md)
 9. 文件系统1
 A. 文件系统2
 
